@@ -1,8 +1,8 @@
 <a href="https://github.com/intbio/statphys_2024/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
-# Статистическая физика для биологов (Осень 2024) 4 курс 
+# Статистическая физика для биологов (Осень 2025) 5 курс 
 
 ### Contact information 
-- Instructor: Alexey K. Shaytan, PHD alex@intbio.org
+- Instructor: Alexey K. Shaytan, Dr.Sci. alex@intbio.org
 - [Folder with presentations]()
 
 ### Meetings and Location
@@ -16,7 +16,7 @@
 ### Textbooks and learning resources
 
 ### Course calendar
-- Dates: 4/10/2024; 11/10/2024; 18/10/2024; 25/10/2024; 1/11/2024?; 8/11/2024; 15/11/2024; 22/11/2024; 29/11/2024; 6/12/2024; 13/12/2024;
+- Dates: 3/10/2025; 10/10/2025; 17?/10/2025; 24?/10/2025; 31/10/2025; 7/11/2025; 14/11/2025; 21/11/2025; 28/11/2025; 5/12/2025; 12/12/2025; 19?/12/2025;
 
 ### Attendance policy
 - 100% attendance is required
