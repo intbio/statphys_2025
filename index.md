@@ -4,6 +4,7 @@
 ### Contact information 
 - Instructor: Alexey K. Shaytan, Dr.Sci. alex@intbio.org
 - [Folder with presentations]()
+- [Telegram](https://t.me/+22J0c5ILndM1YWYy) 
 
 ### Meetings and Location
 - Classroom: Bioeng Dept. (Leninskie Gory 1-73), rooms 542
