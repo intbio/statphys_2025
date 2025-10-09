@@ -1,5 +1,5 @@
 <a href="https://github.com/intbio/statphys_2025/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
-# Статистическая физика для биологов (Осень 2025) 5 курс 
+# Статистическая физика для биологов (Осень 2025) 4 курс 
 
 ### Contact information 
 - Instructor: Alexey K. Shaytan, Dr.Sci. alex@intbio.org
@@ -48,7 +48,8 @@ TBD
 
 ### План лекций
 
-<details><summary><ins>Лекция 1. Место статистической физики в научном познании. Основы механики.</ins> 
+<details><summary><ins>Лекция 1. Место статистической физики в научном познании. Основы математики, физики, механики, термодинамики.</ins> 
+Обсуждаем области математики и физики, необходимые для освоения статфизики
 <a href="https://www.dropbox.com/scl/fi/wn5dp105p4pzim8j6k7wq/Lecture1.ppt?rlkey=9xedwjx2h1hp9xc5bbir1w2hp&dl=0">Слайды лекции.</a> </summary>
 <br>
 </details>
